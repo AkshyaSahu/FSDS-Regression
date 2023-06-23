@@ -1,6 +1,5 @@
-numpy
 flask
 matplotlib
-seaborn
+numpy
 pandas
--e .
+seaborn
